@@ -1,0 +1,7 @@
+# Ignore dbt generated files
+dbt_packages/
+target/
+*.log
+*.pyc
+.DS_Store
+.env

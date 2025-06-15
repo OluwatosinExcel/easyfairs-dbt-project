@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    database: easyfairs-462914       #GCP project ID
+    schema: easyfairs_data           #BigQuery dataset name
+    tables:
+      - name: attendees_data
+      - name: events_data
+      - name: sales_data
+      - name: exhibitors_data

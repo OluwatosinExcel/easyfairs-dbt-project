@@ -1,0 +1,14 @@
+name: 'easyfairs_project'
+version: '1.0'
+profile: 'easyfairs_project'
+
+model-paths: ["models"]
+
+models:
+  easyfairs_project:
+    +materialized: view  
+    example:
+      +materialized: view 
+    staging:
+      +schema: easyfairs_data   
+      +materialized: view
