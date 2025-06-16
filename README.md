@@ -38,7 +38,7 @@ The project follows a layered architecture using dbt's modular approach:
 
 ## Data Visualization
 
-![EasyFairs Dashboard](snapshots/easyfairs dashboard.png)
+[EasyFairs Dashboard](snapshots/easyfairs dashboard.png)
 
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/babalolatosin/viz/Easyfairs/Dashboard1?publish=yes)
 
