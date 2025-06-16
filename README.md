@@ -47,8 +47,38 @@ The project follows a layered architecture using dbt's modular approach:
 
 ## Key Insights
 
-In Progress........
+Based on the final Tableau dashboard:
 
+- Total Revenue across all events: £345,472
+
+- Total Profit: £92,191
+
+- Avg. Satisfaction Score: 52.92
+
+- Avg. Feedback Rating: 31.75
+
+# Detailed Insights
+Top Performing Event
+
+Business Summit 2024 had the highest revenue (£116,633) and profit (£34,050), indicating strong commercial performance.
+
+Profitability Discrepancies
+
+Despite decent revenue, Fashion Show 2023 recorded a negative profit (-£1,952), highlighting a need to revisit cost structures or pricing models.
+
+Satisfaction vs. Profit
+
+Tech Expo events delivered high profits and strong feedback/satisfaction, suggesting high-value engagement.
+
+Regions like Antwerp had the highest average satisfaction scores, while Ghent underperformed, indicating regional differences in event experience quality.
+
+Temporal Revenue Trends
+
+Revenue fluctuated across months with peaks in January and September — critical periods for event planning.
+
+Duration vs. Satisfaction
+
+Events with longer durations (e.g., Fashion Show 2023 with 42 days) do not always correlate with better satisfaction or profit, indicating duration is not a direct performance driver.
 ---
 
 ## How to Run This Project Locally
