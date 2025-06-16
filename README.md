@@ -18,7 +18,7 @@ This project solves this by cleaning, unifying, and modeling raw data into actio
 
 ---
 
-## 🧭 Data Pipeline Architecture
+## Data Pipeline Architecture
 
 The project follows a layered architecture using dbt's modular approach:
 
@@ -36,7 +36,7 @@ The project follows a layered architecture using dbt's modular approach:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 Here are a few insights discovered during the project:
 
@@ -46,7 +46,7 @@ Here are a few insights discovered during the project:
 
 ---
 
-## 🛠️ How to Run This Project Locally
+## How to Run This Project Locally
 
 To run this dbt project on your machine:
 
@@ -68,7 +68,7 @@ dbt run        # Build all models
 dbt test       # Run tests
 dbt docs generate && dbt docs serve  # Open documentation in your browser
 
-Contributors
+**Contributors**
 Oluwatosin Babalola: Senior Data Analyst, Project Owner
 
 License
