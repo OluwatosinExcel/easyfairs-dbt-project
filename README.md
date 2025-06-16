@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This dbt project was designed to transform raw event data from the EasyFairs event platform into structured and analytics-ready datasets hosted in Google BigQuery. The goal is to build a reliable and scalable data pipeline that enables reporting and key performance metric analysis for various stakeholders.
+This dbt project was designed to transform raw event data from the EasyFairs event platform(demo dataset) into structured and analytics-ready datasets hosted in Google BigQuery. The goal is to build a reliable and scalable data pipeline that enables reporting and key performance metric analysis for stakeholders.
 
 ---
 
@@ -38,11 +38,7 @@ The project follows a layered architecture using dbt's modular approach:
 
 ## Key Insights
 
-Here are a few insights discovered during the project:
-
-- Events with higher exhibitor feedback tend to correlate with higher attendee satisfaction.
-- Certain regions consistently outperform others in terms of revenue and profit.
-- Events with high ticket prices don't always translate to higher satisfaction.
+In Progress........
 
 ---
 
@@ -69,6 +65,5 @@ dbt test       # Run tests
 dbt docs generate && dbt docs serve  # Open documentation in your browser
 
 **Contributors**
-Oluwatosin Babalola: Senior Data Analyst, Project Owner
 
-License
+Oluwatosin Babalola: Senior Data Analyst, Project Owner
