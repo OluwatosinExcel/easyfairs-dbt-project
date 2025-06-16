@@ -67,7 +67,7 @@ Based on the final Tableau dashboard:
 
 **Satisfaction vs. Profit**
 - Tech Expo events delivered high profits and strong feedback/satisfaction, suggesting high-value engagement.
-- Regions like Antwerp had the highest average satisfaction scores, while Ghent underperformed, indicating regional differences in event experience quality.
+- Regions like Brussels had the highest average satisfaction scores, while Ghent underperformed, indicating regional differences in event experience quality.
 
 **Temporal Revenue Trends**
 - Revenue fluctuated across months with peaks in January and September, critical periods for event planning.
